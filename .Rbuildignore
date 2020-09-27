@@ -11,3 +11,6 @@ $run_dev.*
 ^Meta$
 ^\.travis\.yml$
 ^appveyor\.yml$
+^app\.R$
+^rsconnect$
+^Dockerfile$
